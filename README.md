@@ -1,4 +1,4 @@
-# [Nombre del Proyecto — ej. BiblioSENA Desktop]
+Biblioteca CTMA
 
 Aplicación de escritorio desarrollada en **C# (.NET / Windows Forms)** con arquitectura en capas, **SQLite** y **Entity Framework Core**, diseñada para gestionar el catálogo de libros y los préstamos de la **Biblioteca del centro de formación**.
 
