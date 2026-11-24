@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Biblioteca.Datos/Biblioteca.Datos.csproj" Id="fc50b290-3036-4d93-a303-0fc84b9264c3" />
+  <Project Path="Biblioteca.Escritorio/Biblioteca.Escritorio.csproj" Id="e2fda4dc-0236-4843-86fe-5af02996c946" />
+  <Project Path="Biblioteca.Modelos/Biblioteca.Modelos.csproj" Id="7c99d62a-d128-41b5-9dc9-49bb4423ae37" />
+  <Project Path="Biblioteca.Servicios/Biblioteca.Servicios.csproj" Id="7be1ea88-68ac-4341-a437-9d206c3d5762" />
+</Solution>
